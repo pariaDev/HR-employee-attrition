@@ -30,3 +30,9 @@ This project analyzes the IBM HR Employee Attrition dataset using Python and Pan
 ## Dataset
 
 IBM HR Analytics Employee Attrition Dataset
+
+![Attrition](images/age-distribution.png)
+![Attrition](images/by-department.png)
+![Attrition](images/employee-attrition.png)
+![Attrition](images/monthly-income.png)
+
